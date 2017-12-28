@@ -84,7 +84,7 @@ Choose a content, a topic and see the solution implemented in Javascript and Pyt
 	del a[0]	// Remove first item. The original is modified.
 	del a[N]	// Remove item of position N. The original is modified.
 	
-#### <a name="anchorConcatenate"> [^](#anchorContents)
+#### <a name="anchorConcatenate">Concatenate and join [^](#anchorContents)
 	
 	// Javascript
 	
