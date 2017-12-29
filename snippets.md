@@ -7,6 +7,13 @@ Here I keep some snippets divided by argument of the language I'm using (Javascr
 Choose a content, a topic and see the solution implemented in Javascript and Python.
 
 ## <a name="anchorContents"></a>Contents
+* [Data types](#anchorDataTypes)
+* [Logical operators](#anchorLogicalOperators)
+* [Control structures](#anchorControlStructures)
+	* [If](#anchorIf)
+	* [For](#anchorFor)
+	* [While](#anchorWhile)
+	* [Switch](#anchorSwitch)
 * [Array](#anchorArray)
 	* [Length](#anchorLength)
 	* [Add items](#anchorAdd)
@@ -19,6 +26,126 @@ Choose a content, a topic and see the solution implemented in Javascript and Pyt
 	* [Filter, map and reduce](#anchorFilter)
 	* [All, fill, unique](#anchorAll)
 
+
+### <a name="anchorDataTypes"></a>Data types [^](#anchorContents)
+
+Tipo | Javascript	|	Python | Notes 
+---- | ----------- | --------- | ----
+Boolean	|	true, false	| True, False	|
+Int  | Number(x)            | Int(x)	|	JS: Always 64bit FP. NaN is a number
+Long | Number(x)				| long(x) | Python: Only in Python 2.x
+Float| Number(x)				| float(x) | 
+Complex | math.complex(x)			| complex(x) | 
+String | String(x)			|str(x)		| Python: Unicode in Python 3x
+Byte | n/a				| bytes(x)  | Python: Only in Python 2.x
+Byte array | n/a		| 	bytearray(x) | Python: Only in Python 3.x
+Array| Object			| list(x) 	|
+Tuple| n/a				| tuple(x) 	|
+Set	|  n/a				| set(x) 	|
+Frozenset	| n/a			|	frozenset(x) |
+Hasmap		| Object			|	dict(x)		|
+Null		| null		|	n/a
+Undefined	| undefined	|	n/a			
+
+### <a name="anchorLogicalOperators"></a>Data types [^](#anchorContents)
+
+Tipo | Javascript	|	Python | Notes 
+---- | ----------- | --------- | ----
+Equal			| ==, ===		| == 		| JS: === checks also the type
+Not equal 		| !=, !==	| !=, <> 	| JS: !== check also the type
+Greater (than)	| >, >=		| >, >=		|
+Lesser (than)	| <. <=		| <, <=		|
+Contained		| Y.indexOf(X) > -1			| X in Y	|
+And				| &&		| and		|
+Or				| \|\|		| or		|
+Not				| !		| not		|
+Bitwise xor		| ( X \|\| Y ) && !( X && Y ) )		| ^			| X or Y but not Y and Y
+Ternary			| var x = (cond) ? if_true : if_false	|	x = if_true if (cond) else if_false 	
+
+### <a name="anchorControlStructures"></a>Control structures [^](#anchorContents)
+
+#### <a name="anchorIf">If  [^](#anchorContents)
+
+	//	Javascript
+	
+	if (cond) {
+  		// ...
+	} else if (cond2) {
+  		// do something
+	} else {
+  		// ...
+  	}
+	
+	# Python
+	
+	if (cond):
+    	pass
+	elif (cond2):
+    	pass
+	else:
+		pass
+		
+	v = X if (cond) else Y	# If on one line;
+	
+	
+#### <a name="anchorFor">For  [^](#anchorContents)
+
+	// Javascript
+	
+	for (X = 0; X < 10; X += 1) {
+  		// ...
+	}
+	
+	for (element in object) {		// Alternative form
+  		// ... 	
+	}
+
+	# Python
+	
+	for X in Y :
+    	pass
+	else:
+    	pass
+    
+#### <a name="anchorWhile">While  [^](#anchorContents)
+
+	// Javascript
+	
+	while (cond) {
+  		// ...
+	}
+	
+	do {					// do
+		// ...
+	} while (cond);
+	
+	# Python
+	
+	while test:
+    	pass
+	else:
+    	pass
+
+#### <a name="anchorSwitch">Switch  [^](#anchorContents)
+
+	// Javascript
+	
+	switch(cond) {
+		case val1:
+			// ...
+		case val2:
+			// ...
+		case val3:
+  			// ...
+  			break;
+		default:
+  			// ...
+  			break;
+	}
+	
+	# Python
+	
+	n/a
 
 ### <a name="anchorArray"></a>Array [^](#anchorContents)
 
