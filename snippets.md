@@ -144,7 +144,7 @@ Ternary			| var x = (cond) ? if_true : if_false	|	x = if_true if (cond) else if_
 	}
 	
 	# Python
-	
+	 
 	n/a
 
 ### <a name="anchorArray"></a>Array [^](#anchorContents)
