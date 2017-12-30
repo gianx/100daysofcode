@@ -30,4 +30,4 @@
 
 **Thoughts:** Good starting point for further projects. Now I can easly deploy a backend. Maybe tomorrow I'll document it on a blog post.
 
-**Link to work:** [snippets](snippets.md)
+**Link to work:** n/a
