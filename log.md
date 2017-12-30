@@ -23,3 +23,11 @@
 **Thoughts:** Good, ready to start some simple project. Maybe check some algorithm before.
 
 **Link to work:** [snippets](snippets.md)
+
+### Day 3:  December 30, 2017 
+
+**Today's Progress**: Started working on [Flask](http://flask.pocoo.org/) following the official [tutorial](http://flask.pocoo.org/docs/0.12/tutorial/). Integrated a simple "hello world" app with [Zappa](https://github.com/Miserlou/Zappa), the incredible tool for easy deployment on AWS.
+
+**Thoughts:** Good starting point for further projects. Now I can easly deploy a backend. Maybe tomorrow I'll document it on a blog post.
+
+**Link to work:** [snippets](snippets.md)

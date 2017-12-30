@@ -6,3 +6,7 @@
 * [Pythonista](http://omz-software.com/pythonista/) is the best porting of Python os iOS;
 * [Dash](https://kapeli.com/dash_ios) is an app that puts tons of docs at your fingertips;
 * [Transmit](https://panic.com/transmit/) is my favourite (S)FTP client and works also wot S3;
+
+## Python Frameworks
+* [Flask](http://flask.pocoo.org/): one of the best micro-framork for web backends;
+* [Zappa](https://github.com/Miserlou/Zappa): allows you to deploy your Flask apps just in minutes
