@@ -10,3 +10,6 @@
 ## Python Frameworks
 * [Flask](http://flask.pocoo.org/): one of the best micro-framork for web backends;
 * [Zappa](https://github.com/Miserlou/Zappa): allows you to deploy your Flask apps just in minutes
+
+## Tutorials
+* [Flask mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)

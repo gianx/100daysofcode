@@ -31,3 +31,11 @@
 **Thoughts:** Good starting point for further projects. Now I can easly deploy a backend. Maybe tomorrow I'll document it on a blog post.
 
 **Link to work:** n/a
+
+### Day 4:  December 31, 2017 
+
+**Today's Progress**: Moving on with [Flask](http://flask.pocoo.org/). Started using Templates and Web Forms.
+
+**Thoughts:** Interesting. I had no time to write the promised post :-(
+
+**Link to work:** n/a
