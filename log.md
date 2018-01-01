@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0:  December 27, 2017 
+### Day 1:  December 27, 2017 
 
 **Today's Progress**: Python/Pandas warm-up. Created a class for fake data generator. I'll use it next days to do some analysis.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** n/a 
 
-### Day 1:  December 28, 2017 
+### Day 2:  December 28, 2017 
 
 **Today's Progress**: Started Javascript warm-up. Finished iPad setup (see [here](links.md)), first version of [snippets](snippets.md).
 
@@ -16,7 +16,7 @@
 
 **Link to work:** [snippets](snippets.md)
 
-### Day 2:  December 29, 2017 
+### Day 3:  December 29, 2017 
 
 **Today's Progress**: Continued Javascript warm-up. [snippets](snippets.md) updated.
 
@@ -24,7 +24,7 @@
 
 **Link to work:** [snippets](snippets.md)
 
-### Day 3:  December 30, 2017 
+### Day 4:  December 30, 2017 
 
 **Today's Progress**: Started working on [Flask](http://flask.pocoo.org/) following the official [tutorial](http://flask.pocoo.org/docs/0.12/tutorial/). Integrated a simple "hello world" app with [Zappa](https://github.com/Miserlou/Zappa), the incredible tool for easy deployment on AWS.
 
@@ -32,10 +32,18 @@
 
 **Link to work:** n/a
 
-### Day 4:  December 31, 2017 
+### Day 5:  December 31, 2017 
 
 **Today's Progress**: Moving on with [Flask](http://flask.pocoo.org/). Started using Templates and Web Forms.
 
 **Thoughts:** Interesting. I had no time to write the promised post :-(
+
+**Link to work:** n/a
+
+### Day 6:  January 1, 2018 
+
+**Today's Progress**: Started working with Python Pandas for a work project. Wrote basic function to create fake Dataframes to analyze in the next days.
+
+**Thoughts:** Till now I'm working on technolgies I already know just to refine my know how. I'm considering starting a project from scratch with a technology I don't already know.
 
 **Link to work:** n/a
