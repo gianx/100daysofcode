@@ -55,3 +55,11 @@
 **Thoughts:** Still need a couple of days to finish my analytic class, then I'll start the real project. Feeling better every day.
 
 **Link to work:** n/a
+
+### Day 8:  January 3, 2018 
+
+**Today's Progress:** Startet the new project in JS/JQ. Done part of the basic structure, I'll publish it as soon as it will be completed (a few days).
+
+**Thoughts:** It's easy for me to write JS/JQ, good progresses for today.
+
+**Link to work:** n/a
