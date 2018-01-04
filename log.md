@@ -63,3 +63,11 @@
 **Thoughts:** It's easy for me to write JS/JQ, good progresses for today.
 
 **Link to work:** n/a
+
+### Day 9:  January 4, 2018 
+
+**Today's Progress:** Added a couple of functions to my JS/JQ project. Not an exciting day.
+
+**Thoughts:** First day so-and-so, but I made it through the day.
+
+**Link to work:** n/a
