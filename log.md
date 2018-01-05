@@ -71,3 +71,11 @@
 **Thoughts:** First day so-and-so, but I made it through the day.
 
 **Link to work:** n/a
+
+### Day 10:  January 5, 2018 
+
+**Today's Progress:** Today I spent 1h writing SQL code for y secret JS/JQ project. Nothing fancy.
+
+**Thoughts:** As soon as I'll finish with this project I have a bigger idea...
+
+**Link to work:** n/a
