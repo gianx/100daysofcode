@@ -79,3 +79,11 @@
 **Thoughts:** As soon as I'll finish with this project I have a bigger idea...
 
 **Link to work:** n/a
+
+### Day 11:  January 6, 2018 
+
+**Today's Progress:** Today I continued moving on with JS. I started [this](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/overview) fantastic course to review my algorithmic skills with javascript.
+
+**Thoughts:** Tomorrow I'll try to do some coding with my iPad. The setup seems fantastic.
+
+**Link to work:** n/a
