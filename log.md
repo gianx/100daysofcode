@@ -87,3 +87,11 @@
 **Thoughts:** Tomorrow I'll try to do some coding with my iPad. The setup seems fantastic.
 
 **Link to work:** n/a
+
+### Day 12:  January 7, 2018 
+
+**Today's Progress:** Still working on [this](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/overview) course. 
+
+**Thoughts:** I stuck a couple of minutes on a stupid point due to a lack of proof reading the question. TL;DR: Always read EVERY word of the question.
+
+**Link to work:** n/a
