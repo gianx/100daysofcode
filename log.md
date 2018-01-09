@@ -95,3 +95,20 @@
 **Thoughts:** I stuck a couple of minutes on a stupid point due to a lack of proof reading the question. TL;DR: Always read EVERY word of the question.
 
 **Link to work:** n/a
+
+### Day 13:  January 8, 2018 
+
+**Today's Progress:** More algorithms, more JS.
+
+**Thoughts:** All good
+
+**Link to work:** n/a
+
+### Day 14:  January 9, 2018 
+
+**Today's Progress:** First day with some serious problem in algorithms. So frustrating.
+
+**Thoughts:** I think tomorrow I'll take a break from algorithms to do something more funny.
+
+**Link to work:** n/a
+
