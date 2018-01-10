@@ -112,3 +112,11 @@
 
 **Link to work:** n/a
 
+### Day 15:  January 10, 2018 
+
+**Today's Progress:** Worked on a series of SQL reports and Python scripts
+
+**Thoughts:** Boring.
+
+**Link to work:** n/a
+
