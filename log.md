@@ -120,3 +120,11 @@
 
 **Link to work:** n/a
 
+### Day 16:  January 11, 2018 
+
+**Today's Progress:** Woke up early, I hour of coding and solved a very complex problem on data structures. 
+
+**Thoughts:** Feel invincible.
+
+**Link to work:** n/a
+
