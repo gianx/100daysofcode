@@ -128,3 +128,18 @@
 
 **Link to work:** n/a
 
+### Day 17:  January 12, 2018 
+
+**Today's Progress:** Worked on some PLSQL functions
+
+**Thoughts:** Forgot to commit this log. :-(
+
+**Link to work:** n/a
+
+### Day 18:  January 13, 2018 
+
+**Today's Progress:** Back on track with my JS algorithmic course
+
+**Thoughts:** Need a roadmap for next days.
+
+**Link to work:** n/a
