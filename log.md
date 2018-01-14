@@ -143,3 +143,11 @@
 **Thoughts:** Need a roadmap for next days.
 
 **Link to work:** n/a
+
+### Day 19:  January 14, 2018 
+
+**Today's Progress:** Today it's about stacks and queues. Nice concepts to refresh.
+
+**Thoughts:** Exercises are easy. Nice day.
+
+**Link to work:** n/a
