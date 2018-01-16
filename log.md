@@ -151,3 +151,11 @@
 **Thoughts:** Exercises are easy. Nice day.
 
 **Link to work:** n/a
+
+### Day 20:  January 16, 2018 
+
+**Today's Progress:** Yesterday I wasn't able to do any coding due to a bad flu. But today I made 2 hours of linked lists.
+
+**Thoughts:** Pausing a day was not encouraging, but re-starting with a double slot has been motivating.
+
+**Link to work:** n/a
