@@ -159,3 +159,13 @@
 **Thoughts:** Pausing a day was not encouraging, but re-starting with a double slot has been motivating.
 
 **Link to work:** n/a
+
+### Day 21:  January 17, 2018 
+
+**Today's Progress:** Finished with linked lists. Tomorrow I'll start with trees.
+
+**Thoughts:** Nice day.
+
+**Link to work:** n/a
+
+
