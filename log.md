@@ -168,4 +168,11 @@
 
 **Link to work:** n/a
 
+### Day 22  January 18, 2018 
+
+**Today's Progress:** Defining and traversing trees. Not a woodworker, still a software engineer.
+
+**Thoughts:** Feel good
+
+**Link to work:** n/a
 
