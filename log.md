@@ -176,3 +176,12 @@
 
 **Link to work:** n/a
 
+### Day 23  January 19, 2018 
+
+**Today's Progress:** Little break from algorithms. Did some repor with Weasyprint and Python
+
+**Thoughts:** Ready to commit to something bigger.
+
+**Link to work:** n/a
+
+
