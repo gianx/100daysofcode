@@ -184,7 +184,7 @@
 
 **Link to work:** n/a
 
-### Day 24  January 19, 2018 
+### Day 24  January 20, 2018 
 
 **Today's Progress:** Still working on reports, not so exciting but need to do.
 
