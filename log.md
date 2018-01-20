@@ -184,4 +184,12 @@
 
 **Link to work:** n/a
 
+### Day 24  January 19, 2018 
+
+**Today's Progress:** Still working on reports, not so exciting but need to do.
+
+**Thoughts:** Ready to commit to something bigger (I'm repeating it as my personal mantra)
+
+**Link to work:** n/a
+
 
