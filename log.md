@@ -192,4 +192,11 @@
 
 **Link to work:** n/a
 
+### Day 25  January 21, 2018 
+
+**Today's Progress:** Back to algorithms and trees. Hope to finish this "module" by the end of the week, so I'll be ready for a new adventure: Swift.
+
+**Thoughts:** I decided to commit to swift as a next step.
+
+**Link to work:** n/a
 
