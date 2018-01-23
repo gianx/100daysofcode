@@ -200,3 +200,11 @@
 
 **Link to work:** n/a
 
+### Day 26  January 22, 2018 
+
+**Today's Progress:** Unfortunately today I had to do some query for work. So I decided to spend my hour of coding playing with PL/SQL pivot tables.
+
+**Thoughts:** Sometimes even PL/SQL is funny.
+
+**Link to work:** n/a
+
