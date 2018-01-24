@@ -208,3 +208,10 @@
 
 **Link to work:** n/a
 
+### Day 27  January 24, 2018 
+
+**Today's Progress:** Missed one day due to work reasons. But today I finished my algorithms assignments!.
+
+**Thoughts:** I'm happy to have finished the algorithmic part. Tomorrow I'll start with something comlpetly new.
+
+**Link to work:** n/a
