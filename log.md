@@ -215,3 +215,11 @@
 **Thoughts:** I'm happy to have finished the algorithmic part. Tomorrow I'll start with something comlpetly new.
 
 **Link to work:** n/a
+
+### Day 28  January 27, 2018 
+
+**Today's Progress:** Missed two days. Fuck. But started swift language!
+
+**Thoughts:** Feel sorry for the two day missing but excited for starting Swift!
+
+**Link to work:** n/a
