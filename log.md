@@ -223,3 +223,11 @@
 **Thoughts:** Feel sorry for the two day missing but excited for starting Swift!
 
 **Link to work:** n/a
+
+### Day 29  January 28, 2018 
+
+**Today's Progress:** Studying Swift language with playgrounds on my iPad.
+
+**Thoughts:** Mixed feelings about Swift.
+
+**Link to work:** n/a
