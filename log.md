@@ -231,3 +231,12 @@
 **Thoughts:** Mixed feelings about Swift.
 
 **Link to work:** n/a
+
+### Day 30  January 29, 2018 
+
+**Today's Progress:** Back to Python for one day, made a class to manage scrolling texts using linked lists.
+
+**Thoughts:** Feel good.
+
+**Link to work:** n/a
+
