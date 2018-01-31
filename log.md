@@ -240,3 +240,20 @@
 
 **Link to work:** n/a
 
+### Day 31 January 30, 2018 
+
+**Today's Progress:** Still on Python and Pandas. 
+
+**Thoughts:** Feel good.
+
+**Link to work:** n/a
+
+### Day 32  January 31, 2018 
+
+**Today's Progress:** Pandas, my love.
+
+**Thoughts:** Feel good.
+
+**Link to work:** n/a
+
+
